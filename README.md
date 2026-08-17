@@ -8,7 +8,7 @@
 ## 🧑‍💻 Contact Me
 
 <div align="center">
-  <a href="https://your-notion-link-here.notion.site">
+  <a href="https://www.notion.so/31ecb69d803280bdaad5f01cb8800513?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="mailto:iinop789@gmail.com">
@@ -60,11 +60,15 @@
 
 </div>
 
----
+## Project
 
-### 📋 상세 스택 요약
+> 지금까지 진행했던 프로젝트 입니다.
 
-* **Languages & Frameworks**: Java 17, Spring Boot, Servlet/JSP, Python, Flask, C
-* **Web Tech**: HTML5, CSS3, JavaScript, jQuery, Thymeleaf, Bootstrap, Ajax & JSON
-* **Database & Persistence**: Oracle Database, MySQL, JDBC, MyBatis
-* **DevOps & Tools**: AWS, Git, GitHub, Eclipse, Golden7, Windows 11, Tomcat 9
+## 1. BallPick
+> 야구 예매 사이트
+> 개발 기간 : 2026.
+> 핵심 역할 : 야구 팀 페이지 및 야구 예매 시 결제 및 좌석에 대한 트랜잭션 처리
+>
+> Back-end
+> > languge : Java 17
+> > 
