@@ -1,4 +1,9 @@
 # 김예환 포트폴리오
+<div>
+    <h2><strong>Intro</strong></h2>
+    <p>안녕하세요. "시도와 실패를 두려워하지 않는 도정 정신" 김예환 입니다.</p>
+</div>
+
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center">
@@ -11,7 +16,7 @@
   <Strong>  </Strong>
 </p><br>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">기술 스택</h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
@@ -25,6 +30,4 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div><br>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 
