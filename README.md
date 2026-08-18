@@ -69,5 +69,28 @@
 > 핵심 역할 : 야구 팀 페이지 및 야구 예매 시 결제 및 좌석에 대한 트랜잭션 처리
 >
 > Back-end
-> > languge : Java 17
-> > 
+> > language : Java 17
+> > skill : JSTL, JDBC
+>
+> Front-end
+> > language : JavaScript, HTML5/CSS, JSP
+> > Skill :
+> 
+> 프로젝트 상세 설명()
+
+<br>
+
+## 2. OneClass
+> 원데이 클래스 예약 사이트
+> 개발 기간 : 2026.
+> 핵심 역할 : 원데이 클래스 상세 페이지 및 결제 로직, 맵 로직 구현
+>
+> Back-end
+> > Language : Java 17
+> > Skill :
+>
+> Front-end
+> > Language :
+> > Skill :
+> 
+> 프로젝트 상세 설명()
