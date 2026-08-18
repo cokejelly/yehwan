@@ -69,12 +69,12 @@
 > 핵심 역할 : 야구 팀 페이지 및 야구 예매 시 결제 및 좌석에 대한 트랜잭션 처리
 >
 > Back-end
-> > language : Java 17
-> > skill : JSTL, JDBC
+>  - language : Java 17
+>  - skill : JSTL, JDBC
 >
 > Front-end
-> > language : JavaScript, HTML5/CSS, JSP
-> > Skill :
+>  - language : JavaScript, HTML5/CSS, JSP
+>  - Skill :
 > 
 > 프로젝트 상세 설명()
 
