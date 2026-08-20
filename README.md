@@ -5,21 +5,27 @@
 
 <br>
 
-## 🧑‍💻 Contact Me
 
-<div align="center">
-  <a href="https://www.notion.so/31ecb69d803280bdaad5f01cb8800513?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
-  <a href="mailto:iinop789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/your-github-id">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-</div>
+## Project
+
+> 지금까지 진행했던 프로젝트 입니다.
+
+## 1. BallPick
+> 야구 예매 사이트
+> - 개발 기간 : 2026.
+> - 핵심 역할 : ﻿Servlet/JSP 기반 개발환경 구축 및 프로젝트 초기 세팅, 예매 데이터 처리를 위한 Database 설계 및 구축, 팀 페이지 및 결제 페이지 UI개발
+> - 기술 스택 : ﻿Java 17, HTML5/CSS, JavaScript, Servlet/JSP
+> - 프로젝트 상세 설명()
 
 <br>
+
+## 2. OneClass
+> 원데이 클래스 예약 사이트
+> - 개발 기간 : 2026.
+> - 핵심 역할 : ﻿Spring Boot 기반 개발환경 및 프로젝트 아키텍처 초기 구축, Oracle DB 데이터 모델링 및 스키마 설계(ERD 작성), Kakao Map API 연동을 통한 위치 기반 클래스 공방 조회 기능 구현, PG사 API연동을 통한 온라인 예약·결제 시스템 구축, Thymeleaf 기반 클래스 상세 조회 페이지 및 사용자 UI 구현
+> - 기술 스택 : ﻿Java 17, Spring Boot, MyBatis, HTML5/CSS, Thymeleaf
+> - 프로젝트 상세 설명()
+
 
 ## 🛠️ Tech Stack
 
@@ -59,38 +65,19 @@
 
 </div>
 
-## Project
+## 🧑‍💻 Contact Me
 
-> 지금까지 진행했던 프로젝트 입니다.
-
-## 1. BallPick
-> 야구 예매 사이트
-> 개발 기간 : 2026.
-> 핵심 역할 : 야구 팀 페이지 및 야구 예매 시 결제 및 좌석에 대한 트랜잭션 처리
->
-> Back-end
->  - language : Java 17
->  - skill : JSTL, JDBC
->
-> Front-end
->  - language : JavaScript, HTML5/CSS, JSP
->  - Skill :
-> 
-> 프로젝트 상세 설명()
+<div align="center">
+  <a href="https://www.notion.so/31ecb69d803280bdaad5f01cb8800513?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="mailto:iinop789@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/your-github-id">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+</div>
 
 <br>
 
-## 2. OneClass
-> 원데이 클래스 예약 사이트
-> 개발 기간 : 2026.
-> 핵심 역할 : 원데이 클래스 상세 페이지 및 결제 로직, 맵 로직 구현
->
-> Back-end
-> > Language : Java 17
-> > Skill :
->
-> Front-end
-> > Language :
-> > Skill :
-> 
-> 프로젝트 상세 설명()
