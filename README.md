@@ -15,7 +15,7 @@
 > - 개발 기간 : 2026.
 > - 핵심 역할 : ﻿Servlet/JSP 기반 개발환경 구축 및 프로젝트 초기 세팅, 예매 데이터 처리를 위한 Database 설계 및 구축, 팀 페이지 및 결제 페이지 UI개발
 > - 기술 스택 : ﻿Java 17, HTML5/CSS, JavaScript, Servlet/JSP
-> - 프로젝트 상세 설명()
+> - 프로젝트 상세 설명(https://app.notion.com/p/BigBall-Project-3c0cb69d803280ee9e6ee90c6de2d677?source=copy_link)
 
 <br>
 
